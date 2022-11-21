@@ -1,0 +1,6 @@
+{
+  "name": "Game: Dinkum",
+  "author": "Kjay9558",
+  "version": "0.0.5",
+  "description": "Vortex support for Dinkum. Only use for .dll mods, others (like TR Tools) need to be installed manually. BepInEx has to be installed manually."
+}
